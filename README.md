@@ -32,11 +32,11 @@ Bu proje, bir şirketin hiyerarşik yapısını görselleştirmek ve kullanıcı
 ---
 
 ## 🚀 Kurulum
-
-1. Visual Studio ile `.sln` dosyasını açın  
-2. `Form1.cs` üzerinden form arayüzünü görüntüleyin  
-3. .NET Framework 4.x yüklü olduğundan emin olun  
-4. `Başlat` butonuna tıklayarak projeyi çalıştırın
+1. WindowsFormsApp2 dosyasini klasorden cikarin.
+2. Visual Studio ile `.sln` dosyasını açın  
+3. `Form1.cs` üzerinden form arayüzünü görüntüleyin  
+4. .NET Framework 4.x yüklü olduğundan emin olun  
+5. `Başlat` butonuna tıklayarak projeyi çalıştırın
 
 ---
 
@@ -56,7 +56,6 @@ Bu proje, bir şirketin hiyerarşik yapısını görselleştirmek ve kullanıcı
 
 ## 📝 Notlar
 
-- Kodlar `grupno_projeadi.zip` şeklinde arşivlenip yüklenmelidir.  
 - README bu klasörün içindeki `README.md` dosyasıdır.  
 - Geri alma sadece çalışanlar için aktiftir (departmanlar için değil).  
 - Departman silme işlemi geri alınamaz.
